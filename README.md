@@ -76,12 +76,19 @@ Deployment: Localhost (can be deployed on cloud platforms like Vercel/Heroku)
 
 /cdp_chatbot
 │── /static
-│   ├── styles.css         # Chatbot styling
+
+│   ├── styles.css # Chatbot styling
+
 │── /templates
+
 │   ├── index.html         # Chatbot UI
+
 │── app.py                 # Flask backend logic
+
 │── cdp_data.json          # Knowledge base for CDP queries
+
 │── README.md              # Project documentation
+
 │── INSTALLATION.md        # Setup and execution steps
 
 
