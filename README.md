@@ -77,7 +77,7 @@ Deployment: Localhost (can be deployed on cloud platforms like Vercel/Heroku)
 /cdp_chatbot
 │── /static
 
-│   ├── styles.css # Chatbot styling
+│   ├── styles.css         # Chatbot styling
 
 │── /templates
 
