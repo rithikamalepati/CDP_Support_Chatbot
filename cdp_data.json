@@ -1,0 +1,19 @@
+{
+    "Segment": {
+        "How do I set up a new source in Segment?": "Go to Sources > Add Source, then follow the guided setup.",
+        "How can I track user events in Segment?": "Use Segment's 'Track API' to send user event data."
+    },
+    "mParticle": {
+        "How can I create a user profile in mParticle?": "Use the Profile API to define user attributes and behaviors.",
+        "How do I integrate mParticle with Firebase?": "Enable Firebase integration in mParticle settings."
+    },
+    "Lytics": {
+        "How do I build an audience segment in Lytics?": "Go to 'Segments', click 'Create New', and define your audience rules.",
+        "How do I enable predictive scoring in Lytics?": "Use Lytics Predictive API to generate scoring models."
+    },
+    "Zeotap": {
+        "How can I integrate my data with Zeotap?": "Use Zeotap's Data Onboarding API and follow data formatting guidelines.",
+        "How do I activate my customer segments in Zeotap?": "Use the 'Segment Activation' tool to deploy audiences."
+    }
+}
+
